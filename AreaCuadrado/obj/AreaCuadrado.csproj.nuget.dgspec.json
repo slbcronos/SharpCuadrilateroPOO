@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Salvador\\Source\\Repos\\slbcronos\\SharpCuadrilateroPOO\\AreaCuadrado\\AreaCuadrado.csproj": {}
+    "C:\\Users\\Salvador\\Source\\Repos\\SharpCuadrilateroPOO\\AreaCuadrado\\AreaCuadrado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Salvador\\Source\\Repos\\slbcronos\\SharpCuadrilateroPOO\\AreaCuadrado\\AreaCuadrado.csproj": {
+    "C:\\Users\\Salvador\\Source\\Repos\\SharpCuadrilateroPOO\\AreaCuadrado\\AreaCuadrado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Salvador\\Source\\Repos\\slbcronos\\SharpCuadrilateroPOO\\AreaCuadrado\\AreaCuadrado.csproj",
+        "projectUniqueName": "C:\\Users\\Salvador\\Source\\Repos\\SharpCuadrilateroPOO\\AreaCuadrado\\AreaCuadrado.csproj",
         "projectName": "AreaCuadrado",
-        "projectPath": "C:\\Users\\Salvador\\Source\\Repos\\slbcronos\\SharpCuadrilateroPOO\\AreaCuadrado\\AreaCuadrado.csproj",
+        "projectPath": "C:\\Users\\Salvador\\Source\\Repos\\SharpCuadrilateroPOO\\AreaCuadrado\\AreaCuadrado.csproj",
         "packagesPath": "C:\\Users\\Salvador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Salvador\\Source\\Repos\\slbcronos\\SharpCuadrilateroPOO\\AreaCuadrado\\obj\\",
+        "outputPath": "C:\\Users\\Salvador\\Source\\Repos\\SharpCuadrilateroPOO\\AreaCuadrado\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

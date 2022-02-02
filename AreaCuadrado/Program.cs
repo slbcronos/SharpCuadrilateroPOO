@@ -39,6 +39,7 @@ namespace AreaCuadrado
             Console.WriteLine("El Perimetro es: " + c1.getPerimetro());
             Console.WriteLine("El Area es: " + c1.getArea());
             Console.WriteLine("-----------------------------------");
+            //cambio 2 en strix
             
 
         }

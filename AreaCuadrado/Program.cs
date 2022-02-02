@@ -6,7 +6,7 @@ namespace AreaCuadrado
     {
         static void Main(string[] args)
         {
-
+            //Variables
             float lado1;
             float lado2;
 
@@ -26,7 +26,7 @@ namespace AreaCuadrado
             }
             else
             {
-                c1 = new Cuadrilatero(lado1, lado2);
+                c1 = new Cuadrilatero(lado1, lado2); // instancia de la clase
             }
 
             //salida
@@ -34,10 +34,12 @@ namespace AreaCuadrado
             Console.WriteLine("Segundo Dato Dado es: " + lado2);
             Console.WriteLine("-----------------------------------");
             Console.WriteLine("-----------------------------------");
+            
 
             Console.WriteLine("El Perimetro es: " + c1.getPerimetro());
             Console.WriteLine("El Area es: " + c1.getArea());
-
+            Console.WriteLine("-----------------------------------");
+            
 
         }
     }

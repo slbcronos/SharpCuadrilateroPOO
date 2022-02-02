@@ -1,0 +1,16 @@
+C:\Users\Salvador\Source\Repos\slbcronos\SharpCuadrilateroPOO\AreaCuadrado\bin\Debug\net5.0\AreaCuadrado.exe
+C:\Users\Salvador\Source\Repos\slbcronos\SharpCuadrilateroPOO\AreaCuadrado\bin\Debug\net5.0\AreaCuadrado.deps.json
+C:\Users\Salvador\Source\Repos\slbcronos\SharpCuadrilateroPOO\AreaCuadrado\bin\Debug\net5.0\AreaCuadrado.runtimeconfig.json
+C:\Users\Salvador\Source\Repos\slbcronos\SharpCuadrilateroPOO\AreaCuadrado\bin\Debug\net5.0\AreaCuadrado.runtimeconfig.dev.json
+C:\Users\Salvador\Source\Repos\slbcronos\SharpCuadrilateroPOO\AreaCuadrado\bin\Debug\net5.0\AreaCuadrado.dll
+C:\Users\Salvador\Source\Repos\slbcronos\SharpCuadrilateroPOO\AreaCuadrado\bin\Debug\net5.0\ref\AreaCuadrado.dll
+C:\Users\Salvador\Source\Repos\slbcronos\SharpCuadrilateroPOO\AreaCuadrado\bin\Debug\net5.0\AreaCuadrado.pdb
+C:\Users\Salvador\Source\Repos\slbcronos\SharpCuadrilateroPOO\AreaCuadrado\obj\Debug\net5.0\AreaCuadrado.csproj.AssemblyReference.cache
+C:\Users\Salvador\Source\Repos\slbcronos\SharpCuadrilateroPOO\AreaCuadrado\obj\Debug\net5.0\AreaCuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salvador\Source\Repos\slbcronos\SharpCuadrilateroPOO\AreaCuadrado\obj\Debug\net5.0\AreaCuadrado.AssemblyInfoInputs.cache
+C:\Users\Salvador\Source\Repos\slbcronos\SharpCuadrilateroPOO\AreaCuadrado\obj\Debug\net5.0\AreaCuadrado.AssemblyInfo.cs
+C:\Users\Salvador\Source\Repos\slbcronos\SharpCuadrilateroPOO\AreaCuadrado\obj\Debug\net5.0\AreaCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\Salvador\Source\Repos\slbcronos\SharpCuadrilateroPOO\AreaCuadrado\obj\Debug\net5.0\AreaCuadrado.dll
+C:\Users\Salvador\Source\Repos\slbcronos\SharpCuadrilateroPOO\AreaCuadrado\obj\Debug\net5.0\ref\AreaCuadrado.dll
+C:\Users\Salvador\Source\Repos\slbcronos\SharpCuadrilateroPOO\AreaCuadrado\obj\Debug\net5.0\AreaCuadrado.pdb
+C:\Users\Salvador\Source\Repos\slbcronos\SharpCuadrilateroPOO\AreaCuadrado\obj\Debug\net5.0\AreaCuadrado.genruntimeconfig.cache

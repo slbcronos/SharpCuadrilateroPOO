@@ -33,6 +33,7 @@ namespace AreaCuadrado
             Console.WriteLine("Primer Dato Dado es: " + lado1);
             Console.WriteLine("Segundo Dato Dado es: " + lado2);
             Console.WriteLine("-----------------------------------");
+            Console.WriteLine("-----------------------------------");
 
             Console.WriteLine("El Perimetro es: " + c1.getPerimetro());
             Console.WriteLine("El Area es: " + c1.getArea());

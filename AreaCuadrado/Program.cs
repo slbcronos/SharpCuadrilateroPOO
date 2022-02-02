@@ -4,6 +4,7 @@ namespace AreaCuadrado
 {
     class Program
     {
+        //Calculo de Perimetro y Area de Cuadrilateros
         static void Main(string[] args)
         {
             //Variables

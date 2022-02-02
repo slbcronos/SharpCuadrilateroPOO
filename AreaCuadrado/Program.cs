@@ -11,14 +11,12 @@ namespace AreaCuadrado
             float lado2;
 
             Console.WriteLine("Digite el Lado 1: ");
-
             lado1 = float.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite el Lado 2: ");
-
             lado2 = float.Parse(Console.ReadLine());
 
-            Cuadrilatero c1 = new Cuadrilatero(lado1,lado2);
+            Cuadrilatero c1 = new Cuadrilatero(lado1,lado2); // instancia de la clase
 
             if (lado1 == lado2)
             {
@@ -26,7 +24,7 @@ namespace AreaCuadrado
             }
             else
             {
-                c1 = new Cuadrilatero(lado1, lado2); // instancia de la clase
+                c1 = new Cuadrilatero(lado1, lado2); 
             }
 
             //salida

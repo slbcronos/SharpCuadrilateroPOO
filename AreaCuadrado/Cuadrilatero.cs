@@ -13,7 +13,7 @@ namespace AreaCuadrado
             this.lado1 = lado1;
             this.lado2 = lado2;
         }
-
+        //caonstructor de un solo lado
         public Cuadrilatero(float lado1)
         {
             this.lado1 = this.lado2 = lado1;
